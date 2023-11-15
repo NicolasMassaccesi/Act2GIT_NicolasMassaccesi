@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+}   
+h2{
+    margin:10px;
+    font-size: small;
+}
+header{
+    background-color: red;
+    height: 10vh;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.boton{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.main{
+    height: 68vh;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    height: 10vh;
+    color: white;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
