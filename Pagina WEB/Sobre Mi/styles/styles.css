@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../images/gatos.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

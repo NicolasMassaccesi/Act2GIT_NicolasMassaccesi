@@ -23,6 +23,10 @@ header{
 .main{
     height: 68vh;
     padding: 10px;
+    background-image: url(../images/IESPABLOPICASSO.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 footer{
     background-color: black;
